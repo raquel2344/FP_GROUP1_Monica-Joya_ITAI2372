@@ -50,4 +50,4 @@ Based on NASA guest speaker Lynn Vernon's presentation on October 24, 2024, reso
 # Key Innovation
 Unlike existing resource management systems that operate reactively, MROI uses predictive AI to anticipate resource needs before critical situations arise. This proactive approach is essential for missions where resupply from Earth takes days and costs millions of dollars per kilogram.
 
-# This project was developed in response to NASA's Artemis program challenges and aligns with the agency's mission to "discover and expand knowledge for the benefit of humanity."
+## I developed this project in response to NASA's Artemis program challenges and aligns with the agency's mission to "discover and expand knowledge for the benefit of humanity."
